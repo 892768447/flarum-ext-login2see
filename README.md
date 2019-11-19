@@ -5,7 +5,7 @@ A [Flarum](http://flarum.org) extension. Adds a login to see BBCODE.
 ### Installation
 
 ```sh
-composer require irony/flarum-ext-google-search
+composer require irony/flarum-ext-login2see
 ```
 
 ### Use
