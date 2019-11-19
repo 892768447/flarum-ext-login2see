@@ -1,0 +1,4 @@
+flarum-ext-login2see:
+  forum:
+    hidden_content: CONTENIDO OCULTO
+    login_to_see: "Tienes que {login} y actualizar esta página para ver el contenido."

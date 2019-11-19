@@ -1,0 +1,4 @@
+flarum-ext-login2see:
+  forum:
+    hidden_content: 隱藏的內容
+    login_to_see: "此內容 {login} 並重新整理後可見"

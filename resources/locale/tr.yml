@@ -1,0 +1,4 @@
+flarum-ext-login2see:
+  forum:
+    hidden_content: GİZLENMİŞ İÇERİK
+login_to_see: "İçeriği görebilmeniz için {login} ve yeniden yüklemeniz gerekiyor."

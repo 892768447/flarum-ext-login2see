@@ -1,0 +1,45 @@
+{
+  "name": "irony/flarum-ext-login2see",
+  "description": "Adds a login to see BBCODE.",
+  "keywords": [
+    "extension",
+    "flarum",
+    "login",
+    "see"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Irony",
+      "email": "892768447@qq.com",
+      "homepage": "https://pyqt.site/"
+    }
+  ],
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "support": {
+    "issues": "https://github.com/892768447/flarum-ext-login2see/issues",
+    "source": "https://github.com/892768447/flarum-ext-login2see"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Login to See",
+      "icon": {
+        "name": "far fa-eye",
+        "backgroundColor": "#6dbb3e",
+        "color": "#fff"
+      }
+    },
+    "flagrow": {
+      "discuss": "",
+      "github": "https://github.com/892768447/flarum-ext-login2see"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Irony\\Login\\See\\": "src/"
+    }
+  }
+}
